@@ -1,7 +1,7 @@
 {
   "name": "react-match-render",
   "description": "Neat way to render components conditionally",
-  "version": "0.1.0",
+  "version": "0.9.0",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
